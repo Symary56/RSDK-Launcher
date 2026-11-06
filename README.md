@@ -13,7 +13,7 @@ S1f stands for Sonic 1 Forever, S2A stands for Sonic 2 Absolute
 Q1:Was this made with AI?
 
 
-A1:Except for title screen sprite, the port's code is 100% written by human
+A1:Except for title screen sprite(it got removed in recent updates), the port's code is 100% written by human
 ( I don't have spriters yet :( )
 
 
